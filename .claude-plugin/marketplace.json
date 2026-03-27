@@ -1,0 +1,21 @@
+{
+  "name": "facturahub",
+  "owner": {
+    "name": "FacturaHub",
+    "email": "hello@facturahub.com"
+  },
+  "metadata": {
+    "description": "Invoice, track expenses, manage tasks and view finances — all from Claude.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "facturahub",
+      "source": "./",
+      "description": "46 MCP tools to run your business from Claude. Invoicing, expenses, tasks, reports, e-invoicing and Business Memory.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["invoicing", "expenses", "accounting", "freelancer", "business", "e-invoice"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "facturahub": {
+    "command": "npx",
+    "args": ["-y", "facturahub@latest"],
+    "env": {
+      "FACTURAHUB_API_KEY": "${FACTURAHUB_API_KEY}",
+      "FACTURAHUB_API_URL": "https://api.facturahub.com"
+    }
+  }
+}

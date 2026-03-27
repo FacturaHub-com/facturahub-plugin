@@ -1,0 +1,13 @@
+{
+  "name": "facturahub",
+  "description": "Run your business from Claude. Invoices, expenses, tasks, reports and e-invoicing — all by talking to your AI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "FacturaHub",
+    "email": "hello@facturahub.com"
+  },
+  "homepage": "https://facturahub.com",
+  "repository": "https://github.com/Santy1422/facturahub-mcp",
+  "license": "MIT",
+  "keywords": ["invoicing", "expenses", "accounting", "mcp", "freelancer", "e-invoice", "business"]
+}
